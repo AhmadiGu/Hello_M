@@ -1,16 +1,34 @@
 # Hello_Microverse
+ > Project Description.
+> **This is my Hello Microverse project created using html, css and also include linters file to check and fix the errors.**
 
-Hello_Microverse
-This is my first project in this module (1) and it made it by html and css 
-and also contain the lintars files that is the main aim of building this project.
+## Built With
 
-Built With  HTML and css
-Major languages   HTML and css
-Technologies used HTML and css, linters, git 
+- HTML
+- CSS
  
-Show your support
-Give a ⭐️ if you like this project! 
+## Live Demo  
 
-📝 License
-This project is MIT licensed.
 
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/AhmadiGu/)
+- Twitter: [@twitterhandle](https://twitter.com/Gulalai Ahmadi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Gulalai Ahmadi/)
+
+   
+
+
+## 🤝 Contributing
+
+ feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+## 📝 License
